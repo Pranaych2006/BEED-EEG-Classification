@@ -60,3 +60,12 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras, and 
 
 ## Disclaimer
 This is an educational machine learning project. The results do not establish clinical accuracy and must not be used for medical diagnosis.
+
+## Dataset Source
+
+The dataset used in this project was obtained from the **UCI Machine Learning Repository**.
+
+- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
+- **Dataset:** BEED (Bangalore EEG Epilepsy Dataset)
+
+Please refer to the original dataset page for its description, citation requirements, and usage terms.
